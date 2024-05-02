@@ -1,0 +1,8 @@
+name: web-scapping-control-pbi
+dependencies:
+  - ipykernel 
+  - pyyaml
+  - pip
+  - pip:
+    - selenium==4.19
+
