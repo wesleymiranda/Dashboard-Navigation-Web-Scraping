@@ -1,3 +1,4 @@
 css-id:
   login-screen: "[aria-describedby='promptForSignInTextId']"
   indicator-screen: "[class='small-multiples-grid-cell-content buttonSlicerVisual']"
+  navegar-paginas: "[data-automation-id='carousel_section']"
